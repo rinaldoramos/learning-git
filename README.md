@@ -2,6 +2,4 @@
 
 ## This repo was used to learn git from Amigoscode
 
-https://wallpaperaccess.com/link-and-zelda
-
-
+![image](https://wallpaperaccess.com/link-and-zelda)
